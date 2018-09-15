@@ -11,3 +11,6 @@
 
 第六章：利用iOS API制作音乐应用
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter06)
+
+第七章：使用Model-View-Controller设计模式制作小测验App
+[实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter07)
