@@ -8,3 +8,6 @@
 
 第四章：构建简单的掷骰子游戏
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter04)
+
+第六章：利用iOS API制作音乐应用
+[实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter06)
