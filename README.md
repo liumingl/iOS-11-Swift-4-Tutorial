@@ -14,3 +14,6 @@
 
 第七章：使用Model-View-Controller设计模式制作小测验App
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter07)
+
+第八章：iOS的自动布局和设置约束
+[实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter08)
