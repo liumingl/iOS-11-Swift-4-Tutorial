@@ -23,3 +23,6 @@
 
 第十章：利用Cocoapods、GPS、APIS、REST制作天气应用
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter10)
+
+第十一章：利用云端数据库、iOS动画和高级Swift特性构建聊天应用
+[实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter11)
