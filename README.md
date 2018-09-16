@@ -29,3 +29,7 @@
 
 第十二章：Git、GitHub和版本控制
 [实战项目素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter12)
+
+第十三章：使用Core Data、User Defaults学习本地数据存储
+第十四章：使用Realm进行本地数据存储
+[实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter13-14)
