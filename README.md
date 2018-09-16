@@ -26,3 +26,6 @@
 
 第十一章：利用云端数据库、iOS动画和高级Swift特性构建聊天应用
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter11)
+
+第十二章：Git、GitHub和版本控制
+[实战项目素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter12)
