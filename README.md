@@ -20,3 +20,6 @@
 
 第九章：Swift 4 中阶知识
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter09)
+
+第十章：利用Cocoapods、GPS、APIS、REST制作天气应用
+[实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter10)
