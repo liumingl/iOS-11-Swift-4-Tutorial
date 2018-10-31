@@ -35,3 +35,15 @@
 第十四章：使用Realm进行本地数据存储
 
 [实战项目源码及素材](https://github.com/liumingl/Swift-4-Tutorial-Chapter13-14)
+
+#超值赠送
+
+目前笔者正在录制一套《使用Swift & Firebase 开发iOS 12聊天App》的视频教程，现在已经上传到微云中。
+
+[《使用Swift & Firebase 开发iOS 12聊天App》的视频教程](https://share.weiyun.com/5Zx3Key)
+
+密码：dd86wa
+
+欢迎大家观看并提出宝贵意见。
+
+##欢迎加入我的QQ群：刘老师的iOS小屋，QQ群号码：230443535
