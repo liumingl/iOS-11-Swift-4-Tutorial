@@ -40,9 +40,9 @@
 
 目前笔者正在录制一套《使用Swift & Firebase 开发iOS 12聊天App》的视频教程，现在已经上传到微云中。
 
-[《使用Swift & Firebase 开发iOS 12聊天App》的视频教程](https://share.weiyun.com/5Zx3Key)
+[《使用Swift & Firebase 开发iOS 12聊天App》的视频教程](https://share.weiyun.com/5WCg8hA)
 
-密码：dd86wa
+密码：nar4nf
 
 欢迎大家观看并提出宝贵意见。
 
