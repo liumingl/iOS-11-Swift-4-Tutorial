@@ -42,7 +42,7 @@
 
 [《使用Swift & Firebase 开发iOS 12聊天App》的视频教程](https://share.weiyun.com/5WCg8hA)
 
-密码：nar4nf
+密码：si2t86
 
 欢迎大家观看并提出宝贵意见。
 
